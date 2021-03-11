@@ -1,0 +1,33 @@
+h2 {
+  text-align: center;
+  font-family: 'Langar', cursive;
+}
+.art{
+  margin: auto;
+}
+
+td {
+  background-color: black;
+  height: 300px;
+  width: 100px;
+  border: 10px solid white;
+}
+
+#a{
+  background-color: #AC80A0;
+
+
+}
+#b{
+  background-color: #89aae6;
+
+}
+#c{
+  background-color: #3685b5;
+}
+#d{
+  background-color: #0471a6;
+}
+#e{
+  background-color: #061826;
+}
